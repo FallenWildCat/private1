@@ -12,5 +12,4 @@
 			</apis>
 	</service>
 </rsd>
-	rsd>
 	
